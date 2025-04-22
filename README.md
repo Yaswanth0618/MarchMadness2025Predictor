@@ -38,6 +38,19 @@ Usage:
 2. Make Predictions:
     - python src/predict.py
     - Note: Copy names directly from the CSV's "Name" column to avoid errors while running predict.py
+  
+Outcome:
+------
+ - Created ~15 brackets using this prediction model
+ - Achieved 100% accuracy in predicting the Final 4 teams
+ - Mathematical analysis revealed 8 possible championship scenarios, with 1 being perfectly correct for both Final 4 and the finals
+
+Bracket Performance Highlights:
+------
+ - One of my brackets ranked #2,092 (top 0.1%, ~1 in 12,000) among ~25 million entries, winning 1st place in 9 different groups
+ - Best Bracket Link - https://fantasy.espn.com/games/tournament-challenge-bracket-2025/
+ - Another one ranked #6,329 (Top 0.1% as well)
+ - 6 brackets ranked in the top 10% (>90th percentile)
 
 
 Sources For Data:
