@@ -33,8 +33,8 @@ Data Preparation:
 Usage:
 ------
 1. Train the Model:
-   python src/train_model.py
+    - python src/train_model.py
 
 2. Make Predictions:
-   python src/predict.py
-   Note: Copy names directly from the CSV's "Name" column to avoid errors
+    - python src/predict.py
+    - Note: Copy names directly from the CSV's "Name" column to avoid errors while running predict.py
