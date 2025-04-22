@@ -38,3 +38,11 @@ Usage:
 2. Make Predictions:
     - python src/predict.py
     - Note: Copy names directly from the CSV's "Name" column to avoid errors while running predict.py
+
+
+Sources For Data:
+------
+ - https://kenpom.com/
+ - https://x.com/ryanhammer09/status/1901689323604304310
+ - https://barttorvik.com/quadrants.php?sort=Q1&conlimit=All
+ - https://www.reddit.com/r/CollegeBasketball/comments/1jeno4s/i_made_a_march_madness_2025_cheat_sheet_so_you/
