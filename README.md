@@ -48,9 +48,9 @@ Outcome:
 Bracket Performance Highlights:
 ------
  - One of my brackets ranked #2,092 (top 0.1%, ~1 in 12,000) among ~25 million entries, winning 1st place in 9 different groups
- - Best Bracket Link - https://fantasy.espn.com/games/tournament-challenge-bracket-2025/
+ - Best Bracket Link - https://tinyurl.com/mvuv4zjc
  - Another one ranked #6,329 (Top 0.1% as well)
- - 6 brackets ranked in the top 10% (>90th percentile)
+ - 5 brackets ranked in the top 3% (>97th percentile)
 
 
 Sources For Data:
