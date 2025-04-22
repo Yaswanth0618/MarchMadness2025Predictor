@@ -12,8 +12,8 @@ A machine learning-powered tool to predict NCAA basketball game outcomes based o
 Installation:
 -------------
 1. Clone this repository:
-   git clone https://github.com/Yaswanth0618/MarchMadness2025Predictor.git
-   cd MarchMadness2025Predictor
+   - git clone https://github.com/Yaswanth0618/MarchMadness2025Predictor.git
+   - cd MarchMadness2025Predictor
 
 2. Install required Python packages:
    - pip install pandas
